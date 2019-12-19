@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# KIMBERLY KAO
 
-You can use the [editor on GitHub](https://github.com/kimberly-kao/kimberly-kao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### ABOUT ME
+I'm a college student at Cal Poly Pomona pursuing a bachelors degree in computer science. 
+I'm going to use this website to track my progress in school including my favorites of each year *(food, T.V. shows, etc)* and the classes I'm taking each semester. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2019
+#### FAVORITE FOOD
+1. Spaghetti
+2. Sushi
+3. Udon
 
-### Markdown
+#### FAVORITE T.V. SHOWS
+1. Modern Family
+2. The Office
+3. Mandalorian
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### FAVORITE SONGS
+1. [10,000 Hours](https://www.youtube.com/watch?v=Y2E71oe0aSM) *by Dan+Shay*
+2. [Memories](https://www.youtube.com/watch?v=SlPhMPnQ58k) *by Maroon 5*
+3. [La Vie En Rose](https://www.youtube.com/watch?v=3Ba_WoSZXvw) *by Daniela Andrade*
 
-```markdown
-Syntax highlighted code block
+#### FALL SEMESTER CLASSES
+- CS 1400: Introduction to Programming and Problem Solving
+- CS 1300: Discrete Structures
+- MAT 1150: Calculus II
+- COM 2204: Advocacy and Argument
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kimberly-kao/kimberly-kao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
