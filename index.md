@@ -21,10 +21,12 @@ I'm going to use this website to track my progress in school including my favori
 3. [La Vie En Rose](https://www.youtube.com/watch?v=3Ba_WoSZXvw) *by Daniela Andrade*
 
 #### FALL SEMESTER CLASSES
-- CS 1400: Introduction to Programming and Problem Solving
-- CS 1300: Discrete Structures
-- MAT 1150: Calculus II
-- COM 2204: Advocacy and Argument
+| CLASS | GRADE |
+| --- | --- |
+| CS 1400: Introduction to Programming and Problem Solving | A |
+| CS 1300: Discrete Structures | A |
+| MAT 1150: Calculus II | A |
+| COM 2204: Advocacy and Argument | A |
 
 ## 2020
 #### GOALS
