@@ -28,7 +28,7 @@ I'm going to use this website to track my progress in school including my favori
 
 ## 2020
 #### GOALS
-[ ] make a commit everyday in github
+-[ ] make a commit everyday in github
 
 #### SPRING SEMESTER CLASSES
 - CS 2400: Data Structures and Advanced Programming
