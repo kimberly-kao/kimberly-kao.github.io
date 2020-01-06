@@ -26,4 +26,15 @@ I'm going to use this website to track my progress in school including my favori
 - MAT 1150: Calculus II
 - COM 2204: Advocacy and Argument
 
+## 2020
+#### GOALS
+[] make a commit everyday in github
+
+#### SPRING SEMESTER CLASSES
+- CS 2400: Data Structures and Advanced Programming
+- MAT 2250: Linear Algebra Applications to Differential Equations
+- PHY 1510: Newtonian Mechanics
+- PHY 1510L: Newtonain Mechanics Lab
+- KIN 2700: Stress Management for Healthy Living
+
 
