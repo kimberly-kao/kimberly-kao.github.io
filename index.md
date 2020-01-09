@@ -2,9 +2,10 @@
 
 ### ABOUT ME
 I'm a college student at Cal Poly Pomona pursuing a bachelors degree in computer science. 
-I'm going to use this website to track my progress in school including my favorites of each year *(food, T.V. shows, etc)* and the classes I'm taking each semester. 
+I'm going to use this website to track my progress in school including my favorites of each year *(T.V. shows, music, etc)* and the classes I'm taking each semester. 
 
 ## 2019
+
 #### FAVORITE FOOD
 1. Spaghetti
 2. Sushi
@@ -30,14 +31,18 @@ I'm going to use this website to track my progress in school including my favori
 | COM 2204: Advocacy and Argument | A |
 
 ## 2020
+
 #### GOALS
 - [ ] make a commit everyday in github
 
 #### SPRING SEMESTER CLASSES
-- CS 2400: Data Structures and Advanced Programming
-- MAT 2250: Linear Algebra Applications to Differential Equations
-- PHY 1510: Newtonian Mechanics
-- PHY 1510L: Newtonain Mechanics Lab
-- KIN 2700: Stress Management for Healthy Living
+
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 2400: Data Structures and Advanced Programming | ... |
+| MAT 2250: Linear Algebra Applications to Differential Equations | ... |
+| PHY 1510: Newtonian Mechanics | ... |
+| PHY 1510L: Newtonain Mechanics Lab | ... |
+| KIN 2700: Stress Management for Healthy Living | ... |
 
 
