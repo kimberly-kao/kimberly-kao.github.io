@@ -51,6 +51,6 @@ I'm going to use this website to track my progress in school including my favori
 
 #### FAVORITE SONGS
 1. [prom dress](https://www.youtube.com/watch?v=AeUeLzBO0go) *by mxmtoon*
-2. [Just for a Moment](https://www.youtube.com/watch?v=cntIBFdDDak) *by Olivia Rodriguo, Joshua Basset*
+2. [Just for a Moment](https://www.youtube.com/watch?v=cntIBFdDDak) *by Olivia Rodriguo, Joshua Bassett*
 
 
