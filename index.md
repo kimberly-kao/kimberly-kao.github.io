@@ -46,7 +46,7 @@ I'm going to use this website to track my progress in school including my favori
 | KIN 2700: Stress Management for Healthy Living | ... |
 
 #### FAVORITE T.V. SHOWS
-1. High School Musical: The Muscial The Series
+1. High School Musical: The Muscial: The Series
 2. Modern Family
 
 #### FAVORITE SONGS
