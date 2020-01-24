@@ -31,7 +31,7 @@ I'm going to use this website to track my progress in school including my favori
 | COM 2204: Advocacy and Argument | A |
 
 ## 2020
-
+>"Just keep swimming" *- Finding Nemo*
 #### GOALS
 - [ ] make a commit everyday in github
 
