@@ -33,7 +33,7 @@ I'm going to use this website to track my progress in school including my favori
 ## 2020
 >"Just keep swimming" *- Finding Nemo*
 #### GOALS
-- [ ] make a commit everyday in github
+- [ ] try to use github more
 
 #### SPRING SEMESTER CLASSES
 
