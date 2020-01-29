@@ -34,6 +34,7 @@ I'm going to use this website to track my progress in school including my favori
 >"Just keep swimming" *- Finding Nemo*
 #### GOALS
 - [ ] try to use github more
+- [ ] practice java more
 
 #### SPRING SEMESTER CLASSES
 
