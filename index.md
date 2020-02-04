@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 I'm a college student at Cal Poly Pomona pursuing a bachelors degree in computer science. 
-I'm going to use this website to track my progress in school including my favorites of each year *(T.V. shows, music, etc)* and the classes I'm taking each semester. 
+This website will track my progress in school including my favorites of each year *(T.V. shows, music, etc)* and the classes I'm taking each semester. 
 
 ## 2019
 
