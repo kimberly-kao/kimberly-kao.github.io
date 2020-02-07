@@ -14,7 +14,7 @@ This website will track my progress in school including my favorites of each yea
 #### FAVORITE T.V. SHOWS
 1. Modern Family
 2. The Office
-3. Mandalorian
+3. Brooklyn 99
 
 #### FAVORITE SONGS
 1. [10,000 Hours](https://www.youtube.com/watch?v=Y2E71oe0aSM) *by Dan+Shay*
