@@ -32,8 +32,6 @@ This website will track my progress in school including my favorites of each yea
 
 ## 2020
 >"Just keep swimming" *- Finding Nemo*
-#### GOALS
-- [ ] learn another language
 
 #### SPRING SEMESTER CLASSES
 
