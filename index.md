@@ -49,7 +49,6 @@ This website will track my progress in school including my favorites of each yea
 3. The Mandalorian
 
 #### FAVORITE SONGS
-1. [prom dress](https://www.youtube.com/watch?v=AeUeLzBO0go) *by mxmtoon*
-2. [Just for a Moment](https://www.youtube.com/watch?v=cntIBFdDDak) *by Olivia Rodriguo, Joshua Bassett*
+1. [Just for a Moment](https://www.youtube.com/watch?v=cntIBFdDDak) *by Olivia Rodriguo, Joshua Bassett*
 
 
