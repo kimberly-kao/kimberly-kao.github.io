@@ -28,10 +28,9 @@ This website will track my progress in school including my favorites of each yea
 | CS 1400: Introduction to Programming and Problem Solving | A |
 | CS 1300: Discrete Structures | A |
 | MAT 1150: Calculus II | A |
-| COM 2204: Advocacy and Argument | A |
+| COM 2204: Advocacy and Argument
 
-## 2020
->"Just keep swimming" *- Finding Nemo*
+##2020
 
 #### SPRING SEMESTER CLASSES
 
