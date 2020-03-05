@@ -46,6 +46,7 @@ This website will track my progress in school including my favorites of each yea
 1. High School Musical: The Muscial: The Series
 2. Modern Family
 3. The Mandalorian
+4. The Bachelor 
 
 #### FAVORITE SONGS
 1. [Just for a Moment](https://www.youtube.com/watch?v=cntIBFdDDak) *by Olivia Rodriguo, Joshua Bassett*
