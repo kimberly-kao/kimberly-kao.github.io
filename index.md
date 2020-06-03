@@ -17,7 +17,7 @@ This website will track my progress in school and the classes I'm taking each se
 
 Joined sheCodes
 
-##2020
+## 2020
 
 #### SPRING SEMESTER CLASSES
 
