@@ -13,7 +13,7 @@ This website will track my progress in school and the classes I'm taking each se
 | CS 1400: Introduction to Programming and Problem Solving | A |
 | CS 1300: Discrete Structures | A |
 | MAT 1150: Calculus II | A |
-| COM 2204: Advocacy and Argument
+| COM 2204: Advocacy and Argument | A |
 
 Joined sheCodes
 
