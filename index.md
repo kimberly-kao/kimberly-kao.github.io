@@ -29,6 +29,19 @@ Joined sheCodes
 | PHY 1510L: Newtonain Mechanics Lab | A |
 | KIN 2700: Stress Management for Healthy Living | A |
 
-Involved in College of Science Science Council as Director of Resource Center and Executive Affairs
+Involved in College of Science Science Council as Director of Resource Center and Executive Affairs and Codepath for Mobile App Development
+
+#### FALL SEMESTER CLASSES
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 2640: Computer Organization and Assembly Programming |  |
+| CS 3110: Formal Languages and Automata |  |
+| STA 2260: Probability and Statistics for Computer Science and Engineers |  |
+| PHY 1520: Introduction to Electromagnetism and Circuits |  |
+| PHY 1510L: Introduction to Electromagnetism and Circuits Lab |  |
+| MU 1000: Introduction to Music |  |
+
+Involved in CodePath as a TechFellow and involved in College of Science Science Council as Director of Resource Center and Executive Affairs
+
 
 
