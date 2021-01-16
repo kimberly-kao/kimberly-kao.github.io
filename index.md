@@ -42,6 +42,7 @@ Involved in College of Science Science Council as Director of Resource Center an
 | MU 1000: Introduction to Music | A |
 
 Involved in CodePath as a TechFellow and involved in College of Science Science Council as Director of Resource Center and Executive Affairs
+Volunteered as a notetaker for students with disabilities. 
 
 ## 2021
 
