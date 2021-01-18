@@ -32,6 +32,7 @@ Joined sheCodes
 Involved in College of Science Science Council as Director of Resource Center and Executive Affairs and Codepath for Mobile App Development
 
 #### FALL SEMESTER CLASSES
+
 | CLASS | GRADE |
 | ----- | ----- |
 | CS 2640: Computer Organization and Assembly Programming | A |
@@ -47,6 +48,7 @@ Volunteered as a notetaker for students with disabilities.
 ## 2021
 
 #### SPRING SEMESTER CLASSES
+
 | CLASS | GRADE |
 | ----- | ----- |
 | CS 3310: Design and Analysis of Algorithms |  |
