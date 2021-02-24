@@ -58,6 +58,7 @@ Volunteered as a notetaker for students with disabilities.
 | HST 2201: United States History to 1877 |  |
 
 Involved in CodePath as a Lead TechFellow and involved in College of Science Science Council as Director of Resource Center and Executive Affairs
+Was hired as Grader for PHY1520L for excellent performance in class
 
 
 
