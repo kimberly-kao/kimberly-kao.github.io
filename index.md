@@ -64,9 +64,7 @@ Was hired as Grader for PHY1520L for excellent performance in class
 
 Elected as Director of External Affairs for Science Council
 
-Finalist and Recipient for 2021-2022 CPP President's Scholarship
-
-Recipient for CodePath Tech Fellow Scholarship
+Finalist and Recipient for 2021-2022 CPP President's Scholarship and recipient for CodePath Tech Fellow Scholarship
 
 Hired as SWE Intern for DCSG
 
