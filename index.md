@@ -52,17 +52,22 @@ Volunteered as a notetaker for students with disabilities.
 
 | CLASS | GRADE |
 | ----- | ----- |
-| CS 3310: Design and Analysis of Algorithms |  |
-| CS 3560: Object-Oriented Design and Programming |  |
-| CS 3650: Computer Architecture |  |
-| CHN 1111: Elementary Chinese I |  |
-| HST 2201: United States History to 1877 |  |
+| CS 3310: Design and Analysis of Algorithms | A |
+| CS 3560: Object-Oriented Design and Programming | A |
+| CS 3650: Computer Architecture | B- |
+| CHN 1111: Elementary Chinese I | A |
+| HST 2201: United States History to 1877 | A |
 
 Involved in CodePath as a Lead TechFellow and involved in College of Science Science Council as Director of Resource Center and Executive Affairs
 
 Was hired as Grader for PHY1520L for excellent performance in class
 
+Elected as Director of External Affairs for Science Council
 
+Finalist and Recipient for 2021-2022 CPP President's Scholarship
 
+Recipient for CodePath Tech Fellow Scholarship
+
+Hired as SWE Intern for DCSG
 
 
