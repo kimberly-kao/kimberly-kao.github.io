@@ -66,6 +66,17 @@ Elected as Director of External Affairs for Science Council
 
 Finalist and Recipient for 2021-2022 CPP President's Scholarship and recipient for CodePath Tech Fellow Scholarship
 
-Hired as SWE Intern for DCSG
+Hired as SWE Intern for Dick's Sporting Goods
 
+#### FALL SEMESTER CLASSES
 
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 4080: Concepts of Programming | -- |
+| CS 4350: Database | -- |
+| CS 4800: Software Engineer | -- |
+| BIO 3010: Human Sexuality | -- |
+
+Involved in CodePath as a Lead TechFellow and involved in College of Science Science Council as Director of Resource Center and Executive Affairs
+
+Hired as Part-time SWE Intern for Dick's Sporting Goods
