@@ -72,10 +72,10 @@ Hired as SWE Intern for Dick's Sporting Goods
 
 | CLASS | GRADE |
 | ----- | ----- |
-| CS 4080: Concepts of Programming | -- |
-| CS 4350: Database | -- |
-| CS 4800: Software Engineer | -- |
-| BIO 3010: Human Sexuality | -- |
+| CS 4080: Concepts of Programming | A |
+| CS 4350: Database | A |
+| CS 4800: Software Engineer | A |
+| BIO 3010: Human Sexuality | A |
 
 Involved in CodePath as a Lead TechFellow and involved in College of Science Science Council as Director of Resource Center and Executive Affairs
 
