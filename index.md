@@ -80,3 +80,17 @@ Hired as SWE Intern for Dick's Sporting Goods
 Involved in CodePath as a Lead TechFellow and involved in College of Science Science Council as Director of Resource Center and Executive Affairs
 
 Hired as Part-time SWE Intern for Dick's Sporting Goods
+
+Hired as SWE Intern for Microsoft E&D
+
+## 2022
+
+#### SPRING SEMESTER CLASSES
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 3750: Computers and Society| -- |
+| CS 4200: Artificial Intelligence | -- |
+| CS 4650: Big Data Analytics and Cloud Computing | -- |
+| AG 4010: Ethical Issues in Food, Agricultural, and Apparel Industries | -- |
+
+Involved in College of Science Science Council as Director of Resource Center and Executive Affairs
