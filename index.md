@@ -86,6 +86,7 @@ Hired as SWE Intern for Microsoft E&D
 ## 2022
 
 #### SPRING SEMESTER CLASSES
+
 | CLASS | GRADE |
 | ----- | ----- |
 | CS 3750: Computers and Society| -- |
