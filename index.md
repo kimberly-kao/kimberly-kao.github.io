@@ -89,9 +89,9 @@ Hired as SWE Intern for Microsoft E&D
 
 | CLASS | GRADE |
 | ----- | ----- |
-| CS 3750: Computers and Society| -- |
-| CS 4200: Artificial Intelligence | -- |
-| CS 4650: Big Data Analytics and Cloud Computing | -- |
-| AG 4010: Ethical Issues in Food, Agricultural, and Apparel Industries | -- |
+| CS 3750: Computers and Society| A |
+| CS 4200: Artificial Intelligence | A |
+| CS 4650: Big Data Analytics and Cloud Computing | A |
+| AG 4010: Ethical Issues in Food, Agricultural, and Apparel Industries | A |
 
 Involved in College of Science Science Council as Director of Resource Center and Executive Affairs
